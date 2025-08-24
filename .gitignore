@@ -241,8 +241,8 @@ Temporary Items
 *.vsix
 
 # add
-# 出力フォルダを無視
-/output/
+# 出力フォルダ配下を無視
+/output/*
 
 # zipファイルを無視
 *.zip
