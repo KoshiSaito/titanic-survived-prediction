@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+ipywidgets
+notebook
+jupyterlab
+scikit-learn
+lightgbm
+xgboost
+optuna
+shap
